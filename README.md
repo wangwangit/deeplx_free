@@ -2,9 +2,9 @@
 分享Deeplx api地址,可通过沉浸式翻译实现无限制翻译!
 
 ## 地址
-http://1.12.243.147:1188/translate
-http://1.12.249.244:1188/translate
-http://1.14.71.133:1188/translate
+http://1.12.243.147:1188/translate 
+http://1.12.249.244:1188/translate 
+http://1.14.71.133:1188/translate 
 http://101.132.149.56:1188/translate
 http://101.201.210.214:1188/translate
 http://101.35.175.93:1188/translate
