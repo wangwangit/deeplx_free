@@ -1,5 +1,5 @@
 # deeplx_free
-分享Deeplx api地址,可通过沉浸式翻译实现无限制翻译!
+分享Deeplx api地址,可通过沉浸式翻译实现无限制翻译! 更多地址可以查看 https://deepl.wangwangit.com/
 
 ## 地址
 * http://1.12.243.147:1188/translate 
